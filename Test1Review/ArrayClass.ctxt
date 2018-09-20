@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ArrayClass
+comment0.text=\n\ Write\ a\ description\ of\ class\ ArrayClass\ here.\n\ Anna\n\ Test\ 1\ Review\n
+comment1.params=
+comment1.target=ArrayClass()
+comment2.params=
+comment2.target=void\ loadArray()
+comment3.params=
+comment3.target=int\ getSum()
+numComments=4
